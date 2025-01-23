@@ -28,7 +28,7 @@
 ## Demo
 
 Here’s a quick preview of how the widget will appear in OBS:
-![Weather Widget Screenshot](screenshot.png)
+![Weather Widget Screenshot](assets/screenshot.png)
 
    
 ## Contributing
