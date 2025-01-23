@@ -21,3 +21,22 @@
    
    ```bash
    git clone https://github.com/yourusername/Openweather-Widget-OBS.git
+## Configuration
+
+- **Location**: By default, the widget will display weather for a latitude and longitude. To change the location, open the `config.js` file and modify the `latitude` and `longitude` variables.
+
+## Demo
+
+Here’s a quick preview of how the widget will appear in OBS:
+![Weather Widget Screenshot](screenshot.png)
+
+   
+## Contributing
+
+If you'd like to contribute, feel free to fork the repository, submit issues, or create pull requests for any improvements!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+   
+   
