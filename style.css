@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d1b2a; /* Dark background for high contrast */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.weather-container {
+    border: 3px solid #ff4e00; /* Bright orange border */
+    border-radius: 20px;
+    padding: 30px;
+    width: 350px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.1); /* Transparent background */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+}
+
+.temperature {
+    font-size: 80px; /* Large size for the temperature */
+    font-weight: bold;
+    color: #ff4e00; /* Bright orange for high contrast */
+    margin-bottom: 20px;
+}
+
+.additional-info {
+    font-size: 20px;
+    color: #ffb400; /* Lighter yellow/orange for supporting info */
+    margin-top: 15px;
+}
+
+#temp {
+    font-size: 90px; /* Even bigger font for the temperature number */
+    font-weight: bold;
+    color: #ff4e00; /* Prominent bright orange */
+}
+
+#humidity, #windSpeed {
+    display: block;
+    margin-top: 5px;
+    font-size: 22px;
+    color: #ffb400; /* Bright yellow/orange for the extra info */
+}
+
+#humidity {
+    font-weight: normal;
+}
+
+#windSpeed {
+    font-weight: normal;
+}
