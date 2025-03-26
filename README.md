@@ -20,7 +20,7 @@
    - Clone this repository or download the ZIP file of the project.
    
    ```bash
-   git clone https://github.com/yourusername/Openweather-Widget-OBS.git
+   git clone https://github.com/lutztalk/Openweather-Widget-OBS.git
 ## Configuration
 
 - **Location**: By default, the widget will display weather for a latitude and longitude. To change the location, open the `config.js` file and modify the `latitude` and `longitude` variables.
